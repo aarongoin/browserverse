@@ -1,0 +1,6 @@
+{
+  "extends": "@parcel/config-webextension",
+  "transformers": {
+    "*.css.ts": ["@vanilla-extract/parcel-transformer"]
+  }
+}
