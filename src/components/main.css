@@ -1,0 +1,103 @@
+
+.body {
+  position: absolute;
+  transform: translate(-50%, -50%);
+  border-radius: 50%;
+  border-color: rgba(0,0,0,0);
+  border-width: 3px;
+  outline-width: 1px;
+  outline-color: rgba(0,0,0,0);
+  transition: all 3000ms;
+}
+.body:hover {
+  outline-color: white;
+}
+
+.layer {
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+}
+
+.hidden {
+  visibility: hidden;
+}
+
+.visible {
+  visibility: visible;
+}
+
+.color-0   { background-color: hsl(  0, 75%, 50%); }
+.color-5   { background-color: hsl(  5, 75%, 50%); }
+.color-10  { background-color: hsl( 10, 75%, 50%); }
+.color-15  { background-color: hsl( 15, 75%, 50%); }
+.color-20  { background-color: hsl( 20, 75%, 50%); }
+.color-25  { background-color: hsl( 25, 75%, 50%); }
+.color-30  { background-color: hsl( 30, 75%, 50%); }
+.color-35  { background-color: hsl( 35, 75%, 50%); }
+.color-40  { background-color: hsl( 40, 75%, 50%); }
+.color-45  { background-color: hsl( 45, 75%, 50%); }
+.color-50  { background-color: hsl( 50, 75%, 50%); }
+.color-55  { background-color: hsl( 55, 75%, 50%); }
+.color-60  { background-color: hsl( 60, 75%, 50%); }
+.color-65  { background-color: hsl( 65, 75%, 50%); }
+.color-70  { background-color: hsl( 70, 75%, 50%); }
+.color-75  { background-color: hsl( 75, 75%, 50%); }
+.color-80  { background-color: hsl( 80, 75%, 50%); }
+.color-85  { background-color: hsl( 85, 75%, 50%); }
+.color-90  { background-color: hsl( 90, 75%, 50%); }
+.color-95  { background-color: hsl( 95, 75%, 50%); }
+.color-100 { background-color: hsl(100, 75%, 50%); }
+.color-105 { background-color: hsl(105, 75%, 50%); }
+.color-110 { background-color: hsl(110, 75%, 50%); }
+.color-115 { background-color: hsl(115, 75%, 50%); }
+.color-120 { background-color: hsl(120, 75%, 50%); }
+.color-125 { background-color: hsl(125, 75%, 50%); }
+.color-130 { background-color: hsl(130, 75%, 50%); }
+.color-135 { background-color: hsl(135, 75%, 50%); }
+.color-140 { background-color: hsl(140, 75%, 50%); }
+.color-145 { background-color: hsl(145, 75%, 50%); }
+.color-150 { background-color: hsl(150, 75%, 50%); }
+.color-155 { background-color: hsl(155, 75%, 50%); }
+.color-160 { background-color: hsl(160, 75%, 50%); }
+.color-165 { background-color: hsl(165, 75%, 50%); }
+.color-170 { background-color: hsl(170, 75%, 50%); }
+.color-175 { background-color: hsl(175, 75%, 50%); }
+.color-180 { background-color: hsl(180, 75%, 50%); }
+.color-185 { background-color: hsl(185, 75%, 50%); }
+.color-190 { background-color: hsl(190, 75%, 50%); }
+.color-195 { background-color: hsl(195, 75%, 50%); }
+.color-200 { background-color: hsl(200, 75%, 50%); }
+.color-205 { background-color: hsl(205, 75%, 50%); }
+.color-210 { background-color: hsl(210, 75%, 50%); }
+.color-215 { background-color: hsl(215, 75%, 50%); }
+.color-220 { background-color: hsl(220, 75%, 50%); }
+.color-225 { background-color: hsl(225, 75%, 50%); }
+.color-230 { background-color: hsl(230, 75%, 50%); }
+.color-235 { background-color: hsl(235, 75%, 50%); }
+.color-240 { background-color: hsl(240, 75%, 50%); }
+.color-245 { background-color: hsl(245, 75%, 50%); }
+.color-250 { background-color: hsl(250, 75%, 50%); }
+.color-255 { background-color: hsl(255, 75%, 50%); }
+.color-260 { background-color: hsl(260, 75%, 50%); }
+.color-265 { background-color: hsl(265, 75%, 50%); }
+.color-270 { background-color: hsl(270, 75%, 50%); }
+.color-275 { background-color: hsl(275, 75%, 50%); }
+.color-280 { background-color: hsl(280, 75%, 50%); }
+.color-285 { background-color: hsl(285, 75%, 50%); }
+.color-290 { background-color: hsl(290, 75%, 50%); }
+.color-295 { background-color: hsl(295, 75%, 50%); }
+.color-300 { background-color: hsl(300, 75%, 50%); }
+.color-305 { background-color: hsl(305, 75%, 50%); }
+.color-310 { background-color: hsl(310, 75%, 50%); }
+.color-315 { background-color: hsl(315, 75%, 50%); }
+.color-320 { background-color: hsl(320, 75%, 50%); }
+.color-325 { background-color: hsl(325, 75%, 50%); }
+.color-330 { background-color: hsl(330, 75%, 50%); }
+.color-335 { background-color: hsl(335, 75%, 50%); }
+.color-340 { background-color: hsl(340, 75%, 50%); }
+.color-345 { background-color: hsl(345, 75%, 50%); }
+.color-350 { background-color: hsl(350, 75%, 50%); }
+.color-355 { background-color: hsl(355, 75%, 50%); }

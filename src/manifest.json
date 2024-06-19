@@ -1,0 +1,9 @@
+{
+  "manifest_version": 2,
+  "name": "Browserverse",
+  "version": "0.0.1",
+  "chrome_url_overrides" : {
+    "newtab": "./newtab.html"
+  },
+  "permissions": ["history", "tabs", "storage"]
+}
