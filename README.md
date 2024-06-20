@@ -6,7 +6,7 @@ Hey there! I'm Aaron, the creator of the [Browserverse](https://browserverse.clo
 
 Browserverse is a web extension for your browser that lets you see the universe of websites you've visited and explore your browsing history in a whole new way. And you get to see it every time you open a new tab! Browserverse is fun, free and always will be. You don't need an account, your data is your own, and is never sold or shared with anyone.
 
-Anyway, thanks for dropping by and for checking out the extension. [Donate](https://buymeacoffee.com/browserverse) to fund continued upkeep and development and [share the extension](https://chromewebstore.google.com/detail/browserverse/insertrealbrowservercodehere) with your friends if you like what I'm building and want to see it grow. Don't hesitate to drop a note if you have ideas, improvements, bugs, or just want to say hi. 🤙
+Anyway, thanks for dropping by and for checking out the extension. [Donate](https://buymeacoffee.com/browserverse) to fund continued upkeep and development and [share](https://chromewebstore.google.com/detail/browserverse/insertrealbrowservercodehere) the extension with your friends if you like what I'm building and want to see it grow. Don't hesitate to drop a note if you have ideas, improvements, bugs, or just want to say hi. 🤙
 
 
 ## Licensing
